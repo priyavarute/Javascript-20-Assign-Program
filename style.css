@@ -1,0 +1,231 @@
+.container{
+    display: flex;
+}
+
+.first{
+    height: 200px;
+    width: 430px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+button{
+    font-size: 15px;
+    height: 50px;
+    width: 200px;
+    margin-left: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+.first label {
+    margin-left: 20px;
+}
+.first input{
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+p{
+    margin-left: 20px;
+}
+.second{
+    height: 200px;
+    width: 650px;
+    background-color:antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.second label {
+    margin-left: 20px;
+}
+.second input{
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Third{
+    height: 200px;
+    width: 430px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Third label {
+    margin-left: 20px;
+}
+.Third input{
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Fourth{
+    height: 200px;
+    width: 450px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Fourth label {
+    margin-left: 20px;
+}
+.Fourth input{
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Fifth{
+    height: 200px;
+    width: 500px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Fifth label {
+    margin-left: 20px;
+}
+.Fifth input{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Sixth{
+    height: 200px;
+    width: 500px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Sixth label {
+    margin-left: 20px;
+}
+.Sixth input{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Senven{
+    height: 200px;
+    width: 500px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Senven label {
+    margin-left: 20px;
+}
+.Senven input{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Eight{
+    height: 200px;
+    width: 500px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Eight label {
+    margin-left: 20px;
+}
+.Eight input{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Nine{
+    height: 250px;
+    width: 470px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Nine label {
+    margin-left: 20px;
+}
+.Nine input{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Ten{
+    height: 250px;
+    width: 470px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Ten label {
+    margin-left: 20px;
+}
+.Ten input{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Eleven{
+    height: 250px;
+    width: 470px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Eleven label {
+    margin-left: 20px;
+}
+.Eleven input{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Twelve{
+    height: 250px;
+    width: 470px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.Twelve label {
+    margin-left: 20px;
+}
+.Twelve input{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 10px;
+}
